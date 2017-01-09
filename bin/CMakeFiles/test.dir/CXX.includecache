@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sun/Cloud/mser/mser.cpp
+mser.h
+/home/sun/Cloud/mser/mser.h
+algorithm
+-
+cassert
+-
+limits
+-
+iostream
+-
+
+/home/sun/Cloud/mser/mser.h
+vector
+-
+stdint.h
+-
+
+/home/sun/Cloud/mser/test.cpp
+algorithm
+-
+cmath
+-
+ctime
+-
+cstdio
+-
+iostream
+-
+jpeglib.h
+-
+mser.h
+/home/sun/Cloud/mser/mser.h
+

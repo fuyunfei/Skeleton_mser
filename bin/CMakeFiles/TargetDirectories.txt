@@ -1,0 +1,3 @@
+/home/sun/Cloud/mser/bin/CMakeFiles/edit_cache.dir
+/home/sun/Cloud/mser/bin/CMakeFiles/rebuild_cache.dir
+/home/sun/Cloud/mser/bin/CMakeFiles/test.dir
